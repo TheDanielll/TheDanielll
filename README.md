@@ -6,4 +6,4 @@
 <code>🧑‍💻 Languages: Python</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@TheDanielL](https://t.me/TheDanielL)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>📫 [your-email](mailto:thedaniell@protonmail.com)</code>
