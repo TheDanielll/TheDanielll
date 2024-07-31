@@ -1,5 +1,3 @@
-<code>🎓 Student: KPI / IO-06</code>
-<code>👷 Speciality: Computer engineer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
