@@ -9,3 +9,9 @@ https://github.com/TheDanielll/Mini_game
 
 
 https://github.com/TheDanielll/sbi_special_docx_master
+
+
+https://github.com/TheDanielll/tweepy
+
+
+https://github.com/TheDanielll/parser_1-rent-
