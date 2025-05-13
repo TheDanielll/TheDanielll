@@ -1,4 +1,4 @@
 # Education
 
-- Kiev Polytechnic Institute
-- Metarhia free educational program
+- National Technical University of Ukraine  “Igor Sikorsky Kyiv Polytechnic Institute”
+
