@@ -16,7 +16,7 @@
 | ⬜ Object-based programming    | 🟦 Private fields     | 🟦 Circular list     |                          |
 | 🟦 Generic programming         | 🟦 Field declarations | 🟦 Trees             |                          |
 | 🟦 Concurrent computing        | 🟦 Inheritance        | 🟦 Graphs            |                          |
-| 🟩 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |
+| 🟩 Asyncronous programming     | 🟦 Parent class       | 🟦 Functor           |                          |
 | 🟩 Parallel programming        | 🟦 Polymorphism       | 🟦 Functional object |                          |
 | 🟦 Reactive programming        | 🟦 Abstract class     | ⬜ Monad             |                          |
 | ⬜ FRP (Functional-reactive)   | 🟦 Interface          | 🟦 Generator         |                          |
